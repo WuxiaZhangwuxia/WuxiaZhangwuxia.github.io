@@ -35,22 +35,20 @@ Welcome students who meet the following criteria to apply:
 
 
 🎓 Educations
-•	Study Experience:
-
-	◦	2016.09–2019.06, University of Chinese Academy of Sciences, Signal and Information Processing, PhD
+•Study Experience:
+        ◦       2016.09–2019.06, University of Chinese Academy of Sciences, Signal and Information Processing, PhD
 
 	◦	2009.09–2012.06, Graduate University of the Chinese Academy of Sciences, Signal and Information Processing, Master
 
 	◦	2005.09–2009.06, University of Electronic Science and Technology, School of Optoelectronic Information, Bachelor
 
-	•	Work Experience:
-
-	◦	2019.07–Present, Xi'an University of Posts and Telecommunications, School of Computer Science, Associate Professor
+•Work Experience:
+        ◦	2019.07–Present, Xi'an University of Posts and Telecommunications, School of Computer Science, Associate Professor
 
 	◦	2012.07–2016.07, Xi'an Huawei Technologies Co., Ltd., Software Engineer
-📝 Publications and Patents
+📝Publications and Patents
 Journal Papers
-	•	Tang Y, Zhang L, Zhang W, et al. Meta-Learning based Semi-supervised Change Detection in Remote Sensing Images[J]. IEEE Transactions on Geoscience and Remote Sensing, 2025.
+	•     Tang Y, Zhang L, Zhang W, et al. Meta-Learning based Semi-supervised Change Detection in Remote Sensing Images[J]. IEEE Transactions on Geoscience and Remote Sensing, 2025.
 
 	•	Zhang W, Shu X, Wu S, et al. Semi-Supervised Change Detection with Data Augmentation and Adaptive Thresholding for High-Resolution Remote Sensing Images[J]. Remote Sensing, 2025, 17(2): 178.
 
