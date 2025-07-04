@@ -105,15 +105,25 @@ Zhang W, Yuan Y, Li X, et al. Target-oriented shape modeling with structure cons
 💻 Research Projects
 
 Wuxia Zhang, Yaxin Lei, Zhi Li, Wan Li, Lei Chen, Boyi Zhang. Method and System for Multi-spectral Image Change Detection, 2025-02-25, China, ZL 2024 1 1813083.6 (Patent)
+
 Wuxia Zhang, Xinlong Shu, Zhi Li, Yaxin Lei, Lei Chen, Wan Li. Method and System for Semi-supervised Remote Sensing Image Change Detection, 2025-02-28, China, ZL 2024 1 1942130.7 (Patent)
+
 Wuxia Zhang, Shuo Liu, Yuhang Zhang, Ling Yang. Method for Regional Extraction of Cloud Microparticle Data, 2023-04-07, China, ZL 2022 10374304.9 (Patent)
+
 Wuxia Zhang, Xiaoxiao Shao, Zhi Li, Wan Li, Boyi Zhang. Method and System for Spacecraft Component Recognition, 2025-02-28, China, ZL2024 1 1595060.2 (Patent)
+
 Wuxia Zhang, Huibo Guo, Yuhang Zhang, Liangxu Su. Method for Hyperspectral Image Change Detection Based on Spectral Transformer Network, 2023-02-03, China, 202310053970.7 (Patent)
+
 Wuxia Zhang, Yuhang Zhang, Shiwen Gao, Yuan Gao, Wenrui Quan, Qiqi Qiang. Method and Detection System for Multi-classification Change Detection of Hyperspectral Images Based on Spectral-Guided Transformer Network Model, 2023-10-08, China, 202311292197.6 (Patent)
+
 Wuxia Zhang, Qinyu Zhang, Junyi Yang, Yingjie Xu, Simin Wang, Yu Lu. Method and System for Multi-spectral Change Detection Based on Cascaded Cross-Attention Mechanism and Differential Feature Learning, 2023-04-23, China, 202310441674.4 (Patent)
+
 Xiaoqiang Lu, Xuelong Li, Wuxia Zhang. Hyperspectral Target Detection Method Combining Sparse Representation and Discriminant Analysis: 201710373032X (Invention Patent), Granted.
+
 Xiaoqiang Lu, Wuxia Zhang, Xuelong Li. Hyperspectral Anomaly Target Detection Method Based on Similarity-Constrained Convex Non-negative Matrix Factorization: 2018116159868 (Invention Patent), Granted.
+
 Xiaoqiang Lu, Wuxia Zhang, Xuelong Li. Spatial-Spectral Joint Feature Learning Network and Multi-spectral Change Detection Method: 2018116159779 (Invention Patent), Granted.
+
 Shuo Liu, Wuxia Zhang, et al. Remote Sensing Image Cloud Detection Method Based on Region Growing: 2019100522930 (Invention Patent)
 
 🏛️ Academic Services
