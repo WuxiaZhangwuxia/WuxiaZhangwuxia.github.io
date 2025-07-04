@@ -73,7 +73,7 @@ Email：zhangwuxia@xupt.edu.cn，wuxiazhang100@126.com
   
 - Zhang W, Zhang Y, Gao S, et al. Spectrum-Induced Transformer-Based Feature Learning for Multiple Change Detection in Hyperspectral Images[J]. IEEE Transactions on Geoscience and Remote Sensing, 2023, 62: 1-12.
 
-- Guo H, Sun C, Zhang J,Zhang W,  et al. MMYFnet: Multi-Modality YOLO Fusion Network for Object Detection in Remote Sensing Images[J]. Remote Sensing, 2024, 16(23): 4451. (<font color='red'>Best Paper Award</font>)
+- Guo H, Sun C, Zhang J,Zhang W,  et al. MMYFnet: Multi-Modality YOLO Fusion Network for Object Detection in Remote Sensing Images[J]. Remote Sensing, 2024, 16(23): 4451. 
 
 - Tang Y, Zhang L, Zhang W, et al. Multi-task convex combination interpolation for meta-learning with fewer tasks[J]. Knowledge-Based Systems, 2024, 296: 111839.
 
