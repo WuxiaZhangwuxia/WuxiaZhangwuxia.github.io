@@ -6,9 +6,9 @@
 # `jekyll serve`. If you change this file, please restart the server process.
 
 # Site Settings
-title                    : "Zhenzhou Tian(田振洲)"
+title                    : "Wuxia Zhang(张无瑕)"
 description              : "西安邮电大学(XUPT)"
-repository               : "zztian007/zztian007.github.io"
+repository               : "prefectlily/prefectlily.github.io"
 google_scholar_stats_use_cdn : false
 
 # google analytics
@@ -21,23 +21,23 @@ baidu_site_verification  :  # get baidu_site_verification from https://ziyuan.ba
 
 # Site Author
 author:
-  name             : "田振洲"
+  name             : "张无瑕"
   avatar           : "images/android-chrome-192x192.png"
   bio              : "Associate Professor"
   location         : "Xi'an, China"
   employer         : # "西安邮电大学"
   pubmed           : 
-  googlescholar    : "https://scholar.google.com/citations?user=Rz5GXAoAAAAJ"
-  email            : "tianzhenzhou@xupt.edu.cn"
-  researchgate     : "https://www.researchgate.net/profile/Zhenzhou-Tian"
-  uri              : "http://gr.xupt.edu.cn/info/1214/8167.htm"
+  googlescholar    : "https://scholar.google.com/citations?hl=zh-CN&user=wcY_2VoAAAAJ"
+  email            : "zhangwuxia@xupt.edu.cn"
+  researchgate     : "https://www.researchgate.net/profile/Wuxia-Zhang"
+  uri              : "https://gr.xupt.edu.cn/info/1213/7441.htm"
   bitbucket        :
   codepen          :
   dribbble         :
   flickr           :
   facebook         :
   foursquare       :
-  github           : "zztian007"
+  github           : "prefectlily"
   google_plus      :
   keybase          :
   instagram        :
