@@ -47,55 +47,55 @@ Email：zhangwuxia@xupt.edu.cn，wuxiazhang100@126.com
 
 ### 期刊
 ---
-- Tang Y, Zhang L, **Zhang W**, et al. Meta-Learning based Semi-supervised Change Detection in Remote Sensing Images[J]. IEEE Transactions on Geoscience and Remote Sensing, 2025.
+- Tang Y, Zhang L, <b style="color:red">Zhang W</b>, et al. Meta-Learning based Semi-supervised Change Detection in Remote Sensing Images[J]. IEEE Transactions on Geoscience and Remote Sensing, 2025.
   
-- **Zhang W**, Shu X, Wu S, et al. Semi-Supervised Change Detection with Data Augmentation and Adaptive Thresholding for High-Resolution Remote Sensing Images[J]. Remote Sensing, 2025, 17(2): 178.<b style="color:red">Zhang W</b>
+- <b style="color:red">Zhang W</b>, Shu X, Wu S, et al. Semi-Supervised Change Detection with Data Augmentation and Adaptive Thresholding for High-Resolution Remote Sensing Images[J]. Remote Sensing, 2025, 17(2): 178.
 
-- **Zhang W**, Shao X, Mei C, et al. Multi-scale Adaptively Spatial Feature Fusion Network for Spacecraft Component Recognition[J]. IEEE Journal of Selected Topics in Applied Earth Observations and Remote Sensing, 2025.
+- <b style="color:red">Zhang W</b>, Shao X, Mei C, et al. Multi-scale Adaptively Spatial Feature Fusion Network for Spacecraft Component Recognition[J]. IEEE Journal of Selected Topics in Applied Earth Observations and Remote Sensing, 2025.
 
-- Guo H, Zhang N, Zhang J, **Zhang W**, et al. Location-guided dense nested attention network for infrared small target detection[J]. IEEE Journal of Selected Topics in Applied Earth Observations and Remote Sensing, 2024.
+- Guo H, Zhang N, Zhang J, <b style="color:red">Zhang W</b>, et al. Location-guided dense nested attention network for infrared small target detection[J]. IEEE Journal of Selected Topics in Applied Earth Observations and Remote Sensing, 2024.
   
-- **Zhang W**, Zhang Y, Gao S, et al. Spectrum-Induced Transformer-Based Feature Learning for Multiple Change Detection in Hyperspectral Images[J]. IEEE Transactions on Geoscience and Remote Sensing, 2023, 62: 1-12.
+- <b style="color:red">Zhang W</b>, Zhang Y, Gao S, et al. Spectrum-Induced Transformer-Based Feature Learning for Multiple Change Detection in Hyperspectral Images[J]. IEEE Transactions on Geoscience and Remote Sensing, 2023, 62: 1-12.
 
-- Guo H, Sun C, Zhang J,**Zhang W**,  et al. MMYFnet: Multi-Modality YOLO Fusion Network for Object Detection in Remote Sensing Images[J]. Remote Sensing, 2024, 16(23): 4451. 
+- Guo H, Sun C, Zhang J,<b style="color:red">Zhang W</b>,  et al. MMYFnet: Multi-Modality YOLO Fusion Network for Object Detection in Remote Sensing Images[J]. Remote Sensing, 2024, 16(23): 4451. 
 
-- Tang Y, Zhang L, **Zhang W**, et al. Multi-task convex combination interpolation for meta-learning with fewer tasks[J]. Knowledge-Based Systems, 2024, 296: 111839.
+- Tang Y, Zhang L, <b style="color:red">Zhang W</b>, et al. Multi-task convex combination interpolation for meta-learning with fewer tasks[J]. Knowledge-Based Systems, 2024, 296: 111839.
 
-- Liu S, Guo H, Gao S,Zhang W,  et al. The Spectrum Difference Enhanced Network for Hyperspectral Anomaly Detection[J]. Remote Sensing, 2024, 16(23): 4518.
+- Liu S, Guo H, Gao S,<b style="color:red">Zhang W</b>,  et al. The Spectrum Difference Enhanced Network for Hyperspectral Anomaly Detection[J]. Remote Sensing, 2024, 16(23): 4518.
 
-- **Zhang W**, Guo H, Liu S, et al. Attention-aware spectral difference representation for hyperspectral anomaly detection[J]. Remote Sensing, 2023, 15(10): 2652.
+- <b style="color:red">Zhang W</b>, Guo H, Liu S, et al. Attention-aware spectral difference representation for hyperspectral anomaly detection[J]. Remote Sensing, 2023, 15(10): 2652.
 
-- **Zhang W**, Zhang Q, Ning H, et al. Cascaded attention-induced difference representation learning for multispectral change detection[J]. International Journal of Applied Earth Observation and Geoinformation, 2023, 121: 103366.
+- <b style="color:red">Zhang W</b>, Zhang Q, Ning H, et al. Cascaded attention-induced difference representation learning for multispectral change detection[J]. International Journal of Applied Earth Observation and Geoinformation, 2023, 121: 103366.
   
-- **Zhang W**, Zhang Y, Su L, et al. Difference-enhancement triplet network for change detection in multispectral images[J]. IEEE Geoscience and Remote Sensing Letters, 2023, 20: 1-5.
+- <b style="color:red">Zhang W</b>, Zhang Y, Su L, et al. Difference-enhancement triplet network for change detection in multispectral images[J]. IEEE Geoscience and Remote Sensing Letters, 2023, 20: 1-5.
 
-- Pan X, Gao X, Wang H,**Zhang W**,  et al. Temporal-based Swin Transformer network for workflow recognition of surgical video[J]. International Journal of Computer Assisted Radiology and Surgery, 2023, 18(1): 139-147.
+- Pan X, Gao X, Wang H,<b style="color:red">Zhang W</b>,  et al. Temporal-based Swin Transformer network for workflow recognition of surgical video[J]. International Journal of Computer Assisted Radiology and Surgery, 2023, 18(1): 139-147.
   
--  Yang Q, Yan Q, **Zhang W**, et al. Deep feature enhancement and Xgboost network for multi‐organ classification[J]. International Journal of Imaging Systems and Technology, 2022, 32(6): 1928-1940.
+-  Yang Q, Yan Q, <b style="color:red">Zhang W</b>, et al. Deep feature enhancement and Xgboost network for multi‐organ classification[J]. International Journal of Imaging Systems and Technology, 2022, 32(6): 1928-1940.
  
-- **Zhang W**, Zhang Q, Liu S, et al. A spatial–spectral joint attention network for change detection in multispectral imagery[J]. Remote Sensing, 2022, 14(14): 3394.
+- <b style="color:red">Zhang W</b>,z Zhang Q, Liu S, et al. A spatial–spectral joint attention network for change detection in multispectral imagery[J]. Remote Sensing, 2022, 14(14): 3394.
   
-- Feng X, **Zhang W**, Su X, et al. Optical remote sensing image denoising and super-resolution reconstructing using optimized generative network in wavelet transform domain[J]. Remote Sensing, 2021, 13(9): 1858.
+- Feng X, <b style="color:red">Zhang W</b>, Su X, et al. Optical remote sensing image denoising and super-resolution reconstructing using optimized generative network in wavelet transform domain[J]. Remote Sensing, 2021, 13(9): 1858.
 
-- Yan Q, Chen J, Zhang J, **Zhang W**, et al. Robust AOA-based source localization using outlier sparsity regularization[J]. Digital Signal Processing, 2021, 112: 103006.
+- Yan Q, Chen J, Zhang J, <b style="color:red">Zhang W</b>, et al. Robust AOA-based source localization using outlier sparsity regularization[J]. Digital Signal Processing, 2021, 112: 103006.
 
-- Lu X, **Zhang W**, Huang J. Exploiting embedding manifold of autoencoders for hyperspectral anomaly detection[J]. IEEE Transactions on Geoscience and Remote Sensing, 2019, 58(3): 1527-1537.
+- Lu X, <b style="color:red">Zhang W</b>, Huang J. Exploiting embedding manifold of autoencoders for hyperspectral anomaly detection[J]. IEEE Transactions on Geoscience and Remote Sensing, 2019, 58(3): 1527-1537.
 
-- **Zhang W**, Lu X, Li X. Similarity constrained convex nonnegative matrix factorization for hyperspectral anomaly detection[J]. IEEE Transactions on Geoscience and Remote Sensing, 2019, 57(7): 4810-4822.
+- <b style="color:red">Zhang W</b>, Lu X, Li X. Similarity constrained convex nonnegative matrix factorization for hyperspectral anomaly detection[J]. IEEE Transactions on Geoscience and Remote Sensing, 2019, 57(7): 4810-4822.
 
-- **Zhang W**, Lu X. The spectral-spatial joint learning for change detection in multispectral imagery[J]. Remote Sensing, 2019, 11(3): 240.F A)
+- <b style="color:red">Zhang W</b>, Lu X. The spectral-spatial joint learning for change detection in multispectral imagery[J]. Remote Sensing, 2019, 11(3): 240.F A)
 
-- Zhang W, Lu X, Li X. A coarse-to-fine semi-supervised change detection for multispectral images[J]. IEEE Transactions on Geoscience and Remote Sensing, 2018, 56(6): 3587-3599.
+- <b style="color:red">Zhang W</b>, Lu X, Li X. A coarse-to-fine semi-supervised change detection for multispectral images[J]. IEEE Transactions on Geoscience and Remote Sensing, 2018, 56(6): 3587-3599.
 
-- Lu X, **Zhang W**, Li X. A hybrid sparsity and distance-based discrimination detector for hyperspectral images[J]. IEEE Transactions on Geoscience and Remote Sensing, 2017, 56(3): 1704-1717.
+- Lu X, <b style="color:red">Zhang W</b>, Li X. A hybrid sparsity and distance-based discrimination detector for hyperspectral images[J]. IEEE Transactions on Geoscience and Remote Sensing, 2017, 56(3): 1704-1717.
 
-- Yan P, **Zhang W**, Turkbey B, et al. Global structure constrained local shape prior estimation for medical image segmentation[J]. Computer Vision and Image Understanding, 2013, 117(9): 1017-1026.
+- Yan P, <b style="color:red">Zhang W</b>, Turkbey B, et al. Global structure constrained local shape prior estimation for medical image segmentation[J]. Computer Vision and Image Understanding, 2013, 117(9): 1017-1026.
 
-- **Zhang W**, Yan P, Li X. Estimating patient-specific shape prior for medical image segmentation[C]//2011 IEEE International Symposium on Biomedical Imaging: From Nano to Macro. IEEE, 2011: 1451-1454.
+- <b style="color:red">Zhang W</b>, Yan P, Li X. Estimating patient-specific shape prior for medical image segmentation[C]//2011 IEEE International Symposium on Biomedical Imaging: From Nano to Macro. IEEE, 2011: 1451-1454.
 
-- **Zhang W**, Yuan Y, Li X, et al. Learning shape statistics for hierarchical 3d medical image segmentation[C]//2011 18th IEEE International Conference on Image Processing. IEEE, 2011: 2189-2192.
+- <b style="color:red">Zhang W</b>, Yuan Y, Li X, et al. Learning shape statistics for hierarchical 3d medical image segmentation[C]//2011 18th IEEE International Conference on Image Processing. IEEE, 2011: 2189-2192.
 
-- **Zhang W**, Yuan Y, Li X, et al. Target-oriented shape modeling with structure constraint for image segmentation[C]//The First Asian Conference on Pattern Recognition. IEEE, 2011: 194-198.
+- <b style="color:red">Zhang W</b>, Yuan Y, Li X, et al. Target-oriented shape modeling with structure constraint for image segmentation[C]//The First Asian Conference on Pattern Recognition. IEEE, 2011: 194-198.
 
 
 ### 专利
