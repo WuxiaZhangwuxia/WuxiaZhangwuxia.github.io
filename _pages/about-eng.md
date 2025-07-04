@@ -36,22 +36,24 @@ Email: zhangwuxia@xupt.edu.cn, wuxiazhang100@126.com
 
 🎓 Educations
 
-	•	Study Experience:
+Education:
 
-	◦	2016.09–2019.06, University of Chinese Academy of Sciences, Signal and Information Processing, PhD
+Sep. 2016 – Jun. 2019: Ph.D. in Signal and Information Processing, University of Chinese Academy of Sciences
 
-	◦	2009.09–2012.06, Graduate University of the Chinese Academy of Sciences, Signal and Information Processing, Master
+Sep. 2009 – Jun. 2012: M.Eng. in Signal and Information Processing, Graduate School of Chinese Academy of Sciences
 
-	◦	2005.09–2009.06, University of Electronic Science and Technology, School of Optoelectronic Information, Bachelor
+Sep. 2005 – Jun. 2009: B.Eng., School of Optoelectronic Information, University of Electronic Science and Technology of China
 
-	•	Work Experience:
+Work Experience:
 
-	◦	2019.07–Present, Xi'an University of Posts and Telecommunications, School of Computer Science, Associate Professor
+Jul. 2019 – Present: Associate Professor, School of Computer Science and Technology, Xi'an University of Posts and Telecommunications
 
-	◦	2012.07–2016.07, Xi'an Huawei Technologies Co., Ltd., Software Engineer
+Jul. 2012 – Jul. 2016: Software Engineer, Xi'an Huawei Technologies Co., Ltd.
 
 📝 Publications and Patents
+
 Journal Papers
+
 Tang Y, Zhang L, Zhang W, et al. Meta-Learning based Semi-supervised Change Detection in Remote Sensing Images[J]. IEEE Transactions on Geoscience and Remote Sensing, 2025.
 
 Zhang W, Shu X, Wu S, et al. Semi-Supervised Change Detection with Data Augmentation and Adaptive Thresholding for High-Resolution Remote Sensing Images[J]. Remote Sensing, 2025, 17(2): 178.
