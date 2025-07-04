@@ -29,9 +29,10 @@ Graduate students under her guidance have won national scholarships, Xi'an Unive
 
 Welcome students who meet the following criteria to apply:
 
-	1.	Solid professional knowledge, good mathematical and English foundations, strong logical thinking, and a down-to-earth, serious and responsible work attitude;
+Solid professional expertise with strong foundations in mathematics and English, coupled with strong logical thinking skills and a conscientious, responsible work ethic.
 
-	2.	Have certain programming skills and are interested in artificial intelligence, image processing, target detection and recognition;
+Proficient in programming fundamentals; passionate about artificial intelligence, image processing, and target detection/recognition.
+
 Email: zhangwuxia@xupt.edu.cn, wuxiazhang100@126.com
 
 🎓 Educations
@@ -130,7 +131,7 @@ Shuo Liu, Wuxia Zhang, et al. Remote Sensing Image Cloud Detection Method Based
 
 🏛️ Academic Services
 
-	•	Long-term reviewer for more than 10 international renowned journals such as IEEE Trans. Geosci. Remote Sens., Int. J. Appl. Earth Obs. Geoinf., IEEE J. Sel. Top. Appl. Earth Obs. Remote Sens., IEEE Geosci. Remote Sens. Lett., Neurocomputing, Pattern Recogn., etc. Awarded the "Outstanding Reviewer" title of Neurocomputing in 2018.
+Long served as a reviewer for over 10 internationally renowned journals, including IEEE Transactions on Geoscience and Remote Sensing, International Journal of Applied Earth Observation and Geoinformation, IEEE Journal of Selected Topics in Applied Earth Observations and Remote Sensing, IEEE Geoscience and Remote Sensing Letters, Neurocomputing, and Pattern Recognition. Awarded the title of "Outstanding Reviewer" by Neurocomputing in 2018.
 
 <script type='text/javascript' id='clustrmaps' src='//cdn.clustrmaps.com/map_v2.js?cl=ffffff&w=300&t=n&d=DDT6mvG6VlcE8DF1mVi2xHzsa78VCQ-uYUpUWbtFGEo'></script>
 
