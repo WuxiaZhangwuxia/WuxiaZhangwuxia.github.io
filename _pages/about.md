@@ -49,7 +49,7 @@ Email：zhangwuxia@xupt.edu.cn，wuxiazhang100@126.com
 ---
 - Tang Y, Zhang L, **Zhang W**, et al. Meta-Learning based Semi-supervised Change Detection in Remote Sensing Images[J]. IEEE Transactions on Geoscience and Remote Sensing, 2025.
   
-- **Zhang W**, Shu X, Wu S, et al. Semi-Supervised Change Detection with Data Augmentation and Adaptive Thresholding for High-Resolution Remote Sensing Images[J]. Remote Sensing, 2025, 17(2): 178.
+- **Zhang W**, Shu X, Wu S, et al. Semi-Supervised Change Detection with Data Augmentation and Adaptive Thresholding for High-Resolution Remote Sensing Images[J]. Remote Sensing, 2025, 17(2): 178.<b style="color:red">Zhang W</b>
 
 - **Zhang W**, Shao X, Mei C, et al. Multi-scale Adaptively Spatial Feature Fusion Network for Spacecraft Component Recognition[J]. IEEE Journal of Selected Topics in Applied Earth Observations and Remote Sensing, 2025.
 
@@ -97,36 +97,6 @@ Email：zhangwuxia@xupt.edu.cn，wuxiazhang100@126.com
 
 - **Zhang W**, Yuan Y, Li X, et al. Target-oriented shape modeling with structure constraint for image segmentation[C]//The First Asian Conference on Pattern Recognition. IEEE, 2011: 194-198.
 
-
-### 会议
----
-
-- `Zhenzhou Tian`, Yaqian Huang, Jie Tian, Zhongmin Wang, Yanping Chen, and Lingwei Chen. Ethereum Smart Contract Representation Learning for Robust Bytecode-Level Similarity Detection. *International Conference on Software Engineering and Knowledge Engineering (SEKE)*. 2022. (CCF C)
-
-- `Zhenzhou Tian`, Hengchao Mao, Yaqian Huang, Jie Tian, and Jinrui Li. Fine-grained obfuscation scheme recognition on binary code. *International Conference on Digital Forensics and Cyber Crime (ICDF2C)*. 2021, 215-228. (CCF C)
-
-- Qing Wang, `Zhenzhou Tian`, Cong Gao, and Lingwei Chen. Plagiarism Detection of Multi-threaded Programs using Frequent Behavioral Pattern Mining. *International Conference on Software Engineering and Knowledge Engineering (SEKE)*. 2020. (<font color='red'>Best Paper Award</font>, CCF C)
-
-- `Zhenzhou Tian`, Jinrui Li, Peng Xue, Jie Tian, Hengchao Mao, and Yaqian Huang. Functionality Recognition on Binary Code with Neural Representation Learning. *International Conference on Artificial Intelligence and Pattern Recognition (AIPR)*. 2021, 280-286.
-
-- Borun Xie, Zhenzhou Tian, Cong Gao, and Lingwei Chen. Towards Fine-Grained Compiler Identification with Neural Modeling. *International Conference on Software Engineering and Knowledge Engineering (SEKE)*. 2020.
-  
-- Zhongmin Wang, Zhen Feng, and `Zhenzhou Tian*`. Neural Representation Learning based Binary Code Authorship Attribution. *International Conference on Digital Forensics and Cyber Crime (ICDF2C)*. 2020, 244-249. (CCF C)
-
-- Cong Gao, Zhenzhou Tian, Yanping Chen, Zhongmin Wang. A Novel Virtual Sensor Management Scheme for Manufacturing Network. *International Conference on Networking and Network Applications (NaNA)*. 2018, 29-35.
-
-- Ming Fan, Jun Liu, Xiapu Luo, Kai Chen, Tianyi Chen, `Zhenzhou Tian`, Xiaodong Zhang, Qinghua Zheng, and Ting Liu. Frequent subgraph based familial classification of android malware. *International Symposium on Software Reliability Engineering (ISSRE)*. 2016, 24-35. (<font color='red'>Distinguished Paper Award</font>, CCF B)
-
-- `Zhenzhou Tian`, Ting Liu, Qinghua Zheng, Feifei Tong, Ming Fan, and Zijiang Yang. A new thread-aware birthmark for plagiarism detection of multithreaded programs. *International Conference on Software Engineering Companion (ICSE-C)*. 2016, 734-736.
-
-- Eryue Zhuang, `Zhenzhou Tian`, Xiaojun Cui, Jian Li, Zhiwen Wang. ERI: A New Method for Ensuring Request Integrity. *EAI International Conference on Mobile Multimedia Communications*. 2016, 126-129.
-
-- `Zhenzhou Tian`, Qinghua Zheng, Ting Liu, Ming Fan, Xiaodong Zhang, and Zijiang Yang. Plagiarism detection for multithreaded software based on thread-aware software birthmarks. *International Conference on Program Comprehension*. 2014, 304-313. (CCF B)
-
-- `Zhenzhou Tian`, Qinghua Zheng, Ming Fan, Eryue Zhuang, Haijun Wang, and Ting Liu. DBPD: A Dynamic Birthmark-based Software Plagiarism Detection Tool. *International Conference on Software Engineering and Knowledge Engineering (SEKE)*. 2014, 740-741. (<font color='red'>Best Demo Award</font>)
-
-- `Zhenzhou Tian`, Qinghua Zheng, Ting Liu, Ming Fan. DKISB: Dynamic key instruction sequence birthmark for software plagiarism detection. *International Conference on High Performance Computing and Communications & IEEE International Conference on Embedded and Ubiquitous Computing (HPCC-EUC)*. 2013, 619-627. (CCF C)
- 
 
 ### 专利
 ------
