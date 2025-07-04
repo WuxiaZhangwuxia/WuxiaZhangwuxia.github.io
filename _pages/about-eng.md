@@ -1,19 +1,23 @@
+---
 layout: alter_eng
 permalink: /eng/
-title: "Academic Homepage"
+title: "AcademicHomepage"
 excerpt: ""
 author_profile: true
-redirect_from:
+redirect_from: 
+  - /about-eng/
+  - /about-eng.html
+---
 
-	•	/about-eng/
 
-	•	/about-eng.html
 {% if site.google_scholar_stats_use_cdn %}
 {% assign gsDataBaseUrl = "https://cdn.jsdelivr.net/gh/" | append: site.repository | append: "@" %}
 {% else %}
 {% assign gsDataBaseUrl = "https://raw.githubusercontent.com/" | append: site.repository | append: "/" %}
 {% endif %}
 {% assign url = gsDataBaseUrl | append: "google-scholar-stats/gs_data_shieldsio.json" %}
+
+<span class='anchor' id='about-me'></span>
 
 
 PhD, Associate Professor, Supervisor of Master Students. Member of CSIG Imaging Detection and Sensing Committee, CSIG Women's Working Committee, Chinese Graphics and Image Society, Chinese Electronic Education Society, China Computer Federation, and IEEE Member. From July 2012 to July 2016, worked as a software engineer in Huawei Technologies Co., Ltd., engaging in the development of Huawei Cloud-related software. In June 2019, obtained a PhD in Signal and Information Processing from the University of Chinese Academy of Sciences, and joined the School of Computer Science, Xi'an University of Posts and Telecommunications in July of the same year, carrying out teaching and research work in the fields of remote sensing image target detection and recognition, and machine learning.
