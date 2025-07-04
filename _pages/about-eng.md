@@ -1,11 +1,11 @@
 ---
-permalink: /
-title: ""
+permalink: /eng/
+title: "About Me"
 excerpt: ""
 author_profile: true
 redirect_from: 
-  - /about/
-  - /about.html
+  - /about-eng/
+  - /about-eng.html
 ---
 
 {% if site.google_scholar_stats_use_cdn %}
@@ -17,50 +17,89 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-Ph.D., Associate Professor, Master's Supervisor, Member of CSIG Imaging Detection and Perception Committee, Member of CSIG Women's Committee, Member of China Society of Image and Graphics, Member of China Electronic Education Association, Member of China Computer Federation, IEEE Member. Worked at Huawei Technologies Co., Ltd. from July 2012 to July 2016, engaged in software development related to Huawei Cloud. Received a Ph.D. in Signal and Information Processing from the University of Chinese Academy of Sciences in June 2019, and joined Xi'an University of Posts and Telecommunications (XUPT), School of Computer Science in July 2019, focusing on teaching and research in remote sensing image object detection and recognition, and machine learning.
+## 🧑‍💻 About Me
 
-Presided over one General Project and one Youth Project funded by the National Natural Science Foundation of China (NSFC), one Shaanxi Key R&D Project, one Special Project of Shaanxi Education Department, one Open Fund Project from a Key Laboratory, and more than 10 horizontal projects. Participated as a key member in various major projects, including NSFC Distinguished Youth Project, NSFC General Projects, projects from State Administration of Science, Technology and Industry for National Defense, and CAS Outstanding Talent Project.
+Dr. Wuxia Zhang is an Associate Professor and Master’s Supervisor.  
+She is a member of the CSIG Image Sensing Committee, CSIG Women’s Committee, China Society of Image and Graphics (CSIG), China Computer Federation (CCF), and IEEE.  
+From July 2012 to July 2016, she worked at Huawei Technologies Co., Ltd. as a software engineer.  
+She received her Ph.D. in Signal and Information Processing from the University of Chinese Academy of Sciences in June 2019. Since July 2019, she has been teaching and conducting research on remote sensing image recognition and machine learning at the School of Computer Science, Xi'an University of Posts and Telecommunications.
 
-Published more than 30 academic papers in authoritative journals such as TGRS, IJAEOG, GRSL, RS, and CVIU. Applied and authorized more than 10 invention patents. Served as a reviewer for several authoritative journals in remote sensing and was awarded "Outstanding Reviewer" by Neurocomputing journal in 2018 and 2020. Served as Young Technical Editor for Journal of Xi'an University of Posts and Telecommunications. Awarded "Excellent Supervisor" by XUPT in 2025.
-
-Supervised graduate students who have received national scholarships, XUPT Graduate Innovation Projects, Electronic Design Competitions, Computer Design Competitions, Data Modeling Competitions, and honors such as Outstanding Graduates. Maintained long-term collaborations with research teams in computer vision at Northwestern Polytechnical University, Xidian University, Chang'an University, Chinese Academy of Sciences, Rensselaer Polytechnic University, as well as industry teams such as Huawei's object detection and recognition team.
-
-Students interested in applying should:
-1. Possess solid professional knowledge, strong foundations in mathematics and English, logical thinking ability, and a rigorous, responsible work ethic;
-2. Have programming experience and an interest in artificial intelligence, image processing, object detection, and recognition.
-Email: zhangwuxia@xupt.edu.cn, wuxiazhang100@126.com
-
-# 🎓 Education and Work Experience
-- Education:
-- *2016.09-2019.06*  University of Chinese Academy of Sciences, Signal and Information Processing, Ph.D.
-- *2009.09-2012.06*  Graduate University of Chinese Academy of Sciences, Signal and Information Processing, M.S.
-- *2005.09-2009.06*  University of Electronic Science and Technology of China, School of Optoelectronic Information, B.S.
-- Work Experience:
-- *2019.07-present*  Xi'an University of Posts and Telecommunications, School of Computer Science, Associate Professor
-- *2012.07-2016.07*  Huawei Technologies Co., Ltd., Xi'an, Software Engineer
-
-<span class='anchor' id='-xl'></span>
-
-<span class='anchor' id='-lwzl'></span>
-
-# 📝 Publications and Patents
-
-### Journals
 ---
-(Complete publication list as in original document, unchanged)
 
-### Patents
-------
-(Complete patent list as in original document, unchanged)
+<span class='anchor' id='projects'></span>
 
-<span class='anchor' id='-kyxm'></span>
+## 🧪 Projects
 
-# 💻 Research Projects
-(Complete project list as in original document, unchanged)
+She has led more than 10 projects including:
+- 1 NSFC General Program
+- 1 NSFC Youth Program
+- 1 Key R&D Program of Shaanxi Province
+- 1 Provincial Department of Education Fund
+- 1 Key Laboratory Open Project
+- and over 10 industry-academic cooperation projects.
 
-<span class='anchor' id='-ryjx'></span>
+She also participated in several major projects including:
+- NSFC Distinguished Young Scholars Program
+- General NSFC Programs
+- SASTIND Projects
+- Chinese Academy of Sciences Talent Program
 
-<span class='anchor' id='-xsfw'></span>
+---
 
-# 🏛️ Academic Services
-Long-term reviewer for IEEE Trans. Geosci. Remote Sens., Int. J. Appl. Earth Obs. Geoinf., IEEE J. Sel. Top. Appl. Earth Obs. Remote Sens., IEEE Geosci. Remote Sens. Lett., Neurocomputing, Pattern Recogn., and more than 10 other internationally renowned journals. Awarded "Outstanding Reviewer" by Neurocomputing journal in 2018.
+<span class='anchor' id='publications'></span>
+
+## 📚 Publications & Patents
+
+She has published more than 30 academic papers in TGRS, IJAEOG, GRSL, RS, CVIU, etc.,  
+and applied for / obtained over 10 invention patents.  
+She has served as a reviewer for many top journals in the remote sensing field and received the "Outstanding Reviewer Award" from *Neurocomputing* in 2018 and 2020.  
+She is currently serving as a Youth Editor for *Journal of Xi’an University of Posts and Telecommunications*.
+
+---
+
+<span class='anchor' id='students'></span>
+
+## 🎓 Students & Awards
+
+She was awarded “Excellent Graduate Advisor 2025” by Xi’an University of Posts and Telecommunications.  
+Students under her supervision have received:
+- National Scholarships
+- Innovation Projects of Xi’an University of Posts and Telecommunications
+- National Electronic Design Competition Awards
+- Computer Design Awards
+- Mathematical Modeling Competition Awards
+- Excellent Graduate Awards
+
+---
+
+<span class='anchor' id='collaborations'></span>
+
+## 🤝 Collaborations
+
+She maintains long-term collaborations with research teams from:
+- Northwestern Polytechnical University
+- Xidian University
+- Chang’an University
+- UCAS
+- Rensselaer Polytechnic Institute
+- Huawei Technologies
+
+---
+
+<span class='anchor' id='recruitment'></span>
+
+## 📢 Graduate Recruitment
+
+Graduate students are welcome to apply who meet the following criteria:
+
+1. Solid foundation in core subjects, good math and English skills, strong logic and responsibility.
+2. Basic coding skills and strong interest in artificial intelligence, image processing, object detection and recognition.
+
+---
+
+<span class='anchor' id='contact'></span>
+
+## 📬 Contact
+
+📧 zhangwuxia@xupt.edu.cn  
+📧 wuxiazhang100@126.com
