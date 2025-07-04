@@ -63,49 +63,55 @@ Email：zhangwuxia@xupt.edu.cn，wuxiazhang100@126.com
 
 ### 期刊
 ---
-- `Zhenzhou Tian`, Minghao Li, Jiaze Sun, Yanping Chen, and Lingwei Chen. Enhancing Vulnerability Detection by Fusing Code Semantic Features with LLM-Generated Explanations. *Information Fusion*. 2025. (中科院一区)
-
-- `Zhenzhou Tian`, Yudong Teng, Xianqun Ke, Yanping Chen, and Lingwei Chen. SolBERT: Advancing Solidity Smart Contract Similarity Analysis via Self-Supervised Pre-Training and Contrastive Fine-Tuning. *Information and Software Technology*. 2025: . (CCF B)
-
-- `Zhenzhou Tian`, Rui Qiu, Yudong Teng, Jiaze Sun, Yanping Chen, and Lingwei Chen. Towards Cost-Efficient Vulnerability Detection with Cross-Modal Adversarial Reprogramming. *Journal of Systems and Software*. 2025: 112365. (CCF B)
-
-- `Zhenzhou Tian`, Haojiang Li, Hanlin Sun, Yanping Chen, and Lingwei Chen. HardVD: High-Capacity Cross-Modal Adversarial Reprogramming for Data-Efficient Vulnerability Detection. *Information Sciences*. 2025, 686:121370. (中科院一区)
-
-- `Zhenzhou Tian`, Yuchen Gong, Chenhao Chang, Jiaze Sun, Yanping Chen, and Lingwei Chen. An Empirical Study on the Divergence of Differently-Sourced LLVM IRs. *Journal of Computer Languages*. 2024, 81: 101289. (<font color='red'>Best Paper Award</font>)
-
-- `Zhenzhou Tian`, Fanfan Wang, Yanping Chen, and Lingwei Chen. Differential Testing Solidity Compiler through Deep Contract Manipulation and Mutation. *Software Quality Journal*. 2024, 32, 765–790.
-
-- `Zhenzhou Tian`, Ruikang He, Hongliang Zhao, and Lingwei Chen. Function-Level Code Obfuscation Detection Through Self-Attention Guided Multi-Representation Fusion. *International Journal of Software Engineering and Knowledge Engineering*. 2024, 34(04), 651-673.
-
-- `Zhenzhou Tian`, Binhui Tian, Jiajun Lv, Yanping Chen, and Lingwei Chen. Enhancing Vulnerability Detection via AST Decomposition and Neural Sub-tree Encoding. *Expert Systems with Applications*. 2024, 238:12186. (中科院一区)
-
-- `Zhenzhou Tian`, Binhui Tian, Jiajun Lv, and Lingwei Chen. Learning and Fusing Multi-View Code Representations for Function Vulnerability Detection. *Electronics*. 2023, 12(11).
+- Tang Y, Zhang L, Zhang W, et al. Meta-Learning based Semi-supervised Change Detection in Remote Sensing Images[J]. IEEE Transactions on Geoscience and Remote Sensing, 2025.
   
-- `Zhenzhou Tian`, Jie Tian, Zhongmin Wang, Yanping Chen, Hong Xia, and Lingwei Chen. Landscape Estimation of Solidity Version Usage on Ethereum via Version Identification. *International Journal of Intelligent Systems*. 2022, 37(1): 450-477. （中科院一区）
+- Zhang W, Shu X, Wu S, et al. Semi-Supervised Change Detection with Data Augmentation and Adaptive Thresholding for High-Resolution Remote Sensing Images[J]. Remote Sensing, 2025, 17(2): 178.
 
-- `Zhenzhou Tian`, Yaqian Huang, Borun Xie, Yanping Chen, Lingwei Chen, and Dinghao Wu. Fine-Grained Compiler Identification with Sequence-oriented Neural Modeling. *IEEE ACCESS*. 2021, 49160-49175.
+- Zhang W, Shao X, Mei C, et al. Multi-scale Adaptively Spatial Feature Fusion Network for Spacecraft Component Recognition[J]. IEEE Journal of Selected Topics in Applied Earth Observations and Remote Sensing, 2025.
+
+- Guo H, Zhang N, Zhang J, Zhang W, et al. Location-guided dense nested attention network for infrared small target detection[J]. IEEE Journal of Selected Topics in Applied Earth Observations and Remote Sensing, 2024.
   
-- `Zhenzhou Tian`, Qing Wang, Cong Gao, Lingwei Chen, and Dinghao Wu. Plagiarism Detection of Multi-threaded Programs via Siamese Neural Networks. *IEEE ACCESS*, 2020. (8): 160802-160814.
+- Zhang W, Zhang Y, Gao S, et al. Spectrum-Induced Transformer-Based Feature Learning for Multiple Change Detection in Hyperspectral Images[J]. IEEE Transactions on Geoscience and Remote Sensing, 2023, 62: 1-12.
+
+- Guo H, Sun C, Zhang J,Zhang W,  et al. MMYFnet: Multi-Modality YOLO Fusion Network for Object Detection in Remote Sensing Images[J]. Remote Sensing, 2024, 16(23): 4451. (<font color='red'>Best Paper Award</font>)
+
+- Tang Y, Zhang L, Zhang W, et al. Multi-task convex combination interpolation for meta-learning with fewer tasks[J]. Knowledge-Based Systems, 2024, 296: 111839.
+
+- Liu S, Guo H, Gao S,Zhang W,  et al. The Spectrum Difference Enhanced Network for Hyperspectral Anomaly Detection[J]. Remote Sensing, 2024, 16(23): 4518.
+
+- Zhang W, Guo H, Liu S, et al. Attention-aware spectral difference representation for hyperspectral anomaly detection[J]. Remote Sensing, 2023, 15(10): 2652.
+
+- Zhang W, Zhang Q, Ning H, et al. Cascaded attention-induced difference representation learning for multispectral change detection[J]. International Journal of Applied Earth Observation and Geoinformation, 2023, 121: 103366.
   
-- `Zhenzhou Tian`, Qing Wang, Cong Gao, Lingwei Chen, and Dinghao Wu. Plagiarism Detection of Multi-threaded Programs using Frequent Behavioral Pattern Mining. *International Journal of Software Engineering and Knowledge Engineering*, 2020. 30(11-12): 1667-1688.
+- Zhang W, Zhang Y, Su L, et al. Difference-enhancement triplet network for change detection in multispectral images[J]. IEEE Geoscience and Remote Sensing Letters, 2023, 20: 1-5.
 
-- `田振洲`, 王宁宁, 王清, 高聪, 刘烃, 郑庆华. 基于行为motifs的多线程程序抄袭检测方法. *计算机研究与发展*. 2020, 57(1): 202-213.
+- Pan X, Gao X, Wang H,Zhang W,  et al. Temporal-based Swin Transformer network for workflow recognition of surgical video[J]. International Journal of Computer Assisted Radiology and Surgery, 2023, 18(1): 139-147.
+  
+-  Yang Q, Yan Q, Zhang W, et al. Deep feature enhancement and Xgboost network for multi‐organ classification[J]. International Journal of Imaging Systems and Technology, 2022, 32(6): 1928-1940.
+ 
+- Zhang W, Zhang Q, Liu S, et al. A spatial–spectral joint attention network for change detection in multispectral imagery[J]. Remote Sensing, 2022, 14(14): 3394.
+  
+- Feng X, Zhang W, Su X, et al. Optical remote sensing image denoising and super-resolution reconstructing using optimized generative network in wavelet transform domain[J]. Remote Sensing, 2021, 13(9): 1858.
 
-- Cong Gao, Zhongmin Wang, Yanping Chen, and `Zhenzhou Tian`. A Scalable Two-Hop Multi-Sink Wireless Sensor Network for Data Collection in Large-Scale Smart Manufacturing Facilities. *Journal of Information Science & Engineering*. 2020, 36(4): 795-819.
+- Yan Q, Chen J, Zhang J, Zhang W, et al. Robust AOA-based source localization using outlier sparsity regularization[J]. Digital Signal Processing, 2021, 112: 103006.
 
-- Cong Gao, `Zhenzhou Tian`, Yanping Chen, and Zhongmin Wang. A Cost-Efficient Virtual Sensor Management Scheme for Manufacturing Network in Smart Factory. *Journal of Information Science & Engineering*. 2019, 35(5): 1075-1097. 
+- Lu X, Zhang W, Huang J. Exploiting embedding manifold of autoencoders for hyperspectral anomaly detection[J]. IEEE Transactions on Geoscience and Remote Sensing, 2019, 58(3): 1527-1537.
 
-- `Zhenzhou Tian`, Ting Liu, Qinghua Zheng, Eryue Zhuang, Ming Fan, and Zijiang Yang. Reviving Sequential Program Birthmarking for Multithreaded Software Plagiarism Detection. *IEEE Transactions on Software Engineering*. 2018, 44(5): 491-511. (CCF A)
+- Zhang W, Lu X, Li X. Similarity constrained convex nonnegative matrix factorization for hyperspectral anomaly detection[J]. IEEE Transactions on Geoscience and Remote Sensing, 2019, 57(7): 4810-4822.
 
-- Ming Fan, Jun Liu, Xiapu Luo, Kai Chen, `Zhenzhou Tian`, Qinghua Zheng, and Ting Liu. Android Malware Familial Classification and Representative Sample Selection via Frequent Subgraph Analysis. *IEEE Transactions on Information Forensics and Security*. 2018, 13(8): 1890-1905. (CCF A)
+- Zhang W, Lu X. The spectral-spatial joint learning for change detection in multispectral imagery[J]. Remote Sensing, 2019, 11(3): 240.F A)
 
-- Ming Fan, Jun Liu, Wei Wang, Haifei Li, `Zhenzhou Tian`, and Ting Liu. DAPASA: Detecting Android Piggybacked Apps through Sensitive Subgraph Analysis. *IEEE Transactions on Information Forensics and Security*. 2018, 12(8): 1772-1785. (CCF A)
+- Zhang W, Lu X, Li X. A coarse-to-fine semi-supervised change detection for multispectral images[J]. IEEE Transactions on Geoscience and Remote Sensing, 2018, 56(6): 3587-3599.
 
-- `Zhenzhou Tian`, Ting Liu, Qinghua Zheng, Ming Fan, Eryue Zhuang, and Zijiang Yang. Exploiting Thread-Related System Calls for Plagiarism Detection of Multithreaded Programs. Journal of Systems and Software. 2016, 119: 136-148. (CCF B)
+- Lu X, Zhang W, Li X. A hybrid sparsity and distance-based discrimination detector for hyperspectral images[J]. IEEE Transactions on Geoscience and Remote Sensing, 2017, 56(3): 1704-1717.
 
-- `Zhenzhou Tian`, Qinghua Zheng, Ting Liu, Ming Fan, Eryue Zhuang, Zijiang Yang. Software Plagiarism Detection with Birthmarks based on Dynamic Key Instruction Sequences. *IEEE Transactions on Software Engineering*. 2015, 41(12): 1217-1235. (CCF A)
+- Yan P, Zhang W, Turkbey B, et al. Global structure constrained local shape prior estimation for medical image segmentation[J]. Computer Vision and Image Understanding, 2013, 117(9): 1017-1026.
 
-- `Ming Fan`, Zhenzhou Tian, Ting Liu. SODB: A Novel method for Software Plagiarism Detection based on Stack Operation Dynamic Birthmark. *Journal of Shandong University (Natural Science)*. 2014, 49(9): 9-16.
+- Zhang W, Yan P, Li X. Estimating patient-specific shape prior for medical image segmentation[C]//2011 IEEE International Symposium on Biomedical Imaging: From Nano to Macro. IEEE, 2011: 1451-1454.
+
+- Zhang W, Yuan Y, Li X, et al. Learning shape statistics for hierarchical 3d medical image segmentation[C]//2011 18th IEEE International Conference on Image Processing. IEEE, 2011: 2189-2192.
+
+- Zhang W, Yuan Y, Li X, et al. Target-oriented shape modeling with structure constraint for image segmentation[C]//The First Asian Conference on Pattern Recognition. IEEE, 2011: 194-198.
 
 
 ### 会议
