@@ -38,23 +38,7 @@ Email：zhangwuxia@xupt.edu.cn，wuxiazhang100@126.com
 - *2012.07-2016.07*      西安华为技术有限公司，软件工程师
 
 <span class='anchor' id='-xl'></span>
-# 🔥 News
-- 2025.06: 🎉<a href="https://www.sciencedirect.com/journal/journal-of-computer-languages/about/news/2024-journal-of-computer-languages-best-paper-award">祝贺学生论文《An Empirical Study on Divergence of Differently-Sourced LLVM IRs》获COLA 2024最佳论文奖。
-- 2025.05: 🎉<a href="https://gr.xupt.edu.cn/info/1077/8880.htm">获评“千喜杯”第四届“五好”研究生团队</a>
-- 2025.01: 🎉<a href="https://mp.weixin.qq.com/s/f6_NUyjCP_X6C6lFqlkfew">获评《信息网络安全》2024年度优秀审稿人</a>
-- 2024.11: 🎉<a href="https://mp.weixin.qq.com/s/coyNqfvZhNJDdztS-OEloA">祝贺学生李明浩带领的团队获第二十一届中国研究生数学建模竞赛华为专项一等奖</a>
-- 2024.07: 🎉祝贺学生王佳乐带领的团队项目获研电赛西北赛区二等奖。
-- 2024.07: 🎉祝贺21届全部四名毕业生田斌辉、王凡凡、柯贤群、贺瑞康获校级优秀硕士学位论文。
-- 2024.04: <a href="https://mp.weixin.qq.com/s/AH-BUdlIJc-Bfjw_tS5nEw">祝贺学生赵佳乐带领的团队项目“深测之眼:IoT固件漏洞智能检测平台”入驻校创新创业孵化基地</a>
-- 2023.12: 🎉<a href="https://mp.weixin.qq.com/s/-ELZPF2orsTuimZyI_8hDA">获评《信息网络安全》2023年度优秀审稿人</a>
-- 2023.11: 🎉祝贺学生张创带领的团队获研究生数学建模竞赛国家二等奖
-- 2023.11：🎉<a href="http://news.xupt.edu.cn/info/1004/22012.htm">祝贺学生张创带领的团队，获华为杯”第二届中国研究生网络安全创新大赛全国二等奖</a>
-- 2023.09：🎉获评2023年西安邮电大学研究生“十佳导师”
-- 2023.09：🎉<a href="https://mp.weixin.qq.com/s/IIkNAXsTBAjSp9t_eMNBdw">祝贺学生田斌辉在ESWA（中科院一区）期刊发表智能漏洞检测研究成果，题为“Enhancing Vulnerability Detection via AST Decomposition and Neural Sub-tree Encoding”</a>
-- 2023.09: 🥇 祝贺学生张创、田斌辉带领的团队项目，分获“中兴捧月杯”西安邮电大学首届研究生网络安全创新大赛一等奖和二等奖
-- 2023.07: 🥇<a href="http://news.xupt.edu.cn/info/1002/21603.htm">喜获2022年度教育部自然科学奖一等奖</a>
-- 2023.05: <a href="http://news.xupt.edu.cn/info/1004/21296.htm">祝贺学生田斌辉带领的团队项目“深测DeepCT:深度语义析取驱动的代码漏洞检测平台”入驻校创新创业孵化基地</a>
-- 2023.01: 🎉<a href="https://mp.weixin.qq.com/s/3E_ziIcFQ8ZuVYFeHn38VA">祝贺学生田斌辉和李濠江带领的团队获研究生数学建模竞赛国家二等奖2项</a>
+
 
  
 <span class='anchor' id='-lwzl'></span>
@@ -63,55 +47,55 @@ Email：zhangwuxia@xupt.edu.cn，wuxiazhang100@126.com
 
 ### 期刊
 ---
-- Tang Y, Zhang L, Zhang W, et al. Meta-Learning based Semi-supervised Change Detection in Remote Sensing Images[J]. IEEE Transactions on Geoscience and Remote Sensing, 2025.
+- Tang Y, Zhang L, **Zhang W**, et al. Meta-Learning based Semi-supervised Change Detection in Remote Sensing Images[J]. IEEE Transactions on Geoscience and Remote Sensing, 2025.
   
-- Zhang W, Shu X, Wu S, et al. Semi-Supervised Change Detection with Data Augmentation and Adaptive Thresholding for High-Resolution Remote Sensing Images[J]. Remote Sensing, 2025, 17(2): 178.
+- **Zhang W**, Shu X, Wu S, et al. Semi-Supervised Change Detection with Data Augmentation and Adaptive Thresholding for High-Resolution Remote Sensing Images[J]. Remote Sensing, 2025, 17(2): 178.
 
-- Zhang W, Shao X, Mei C, et al. Multi-scale Adaptively Spatial Feature Fusion Network for Spacecraft Component Recognition[J]. IEEE Journal of Selected Topics in Applied Earth Observations and Remote Sensing, 2025.
+- **Zhang W**, Shao X, Mei C, et al. Multi-scale Adaptively Spatial Feature Fusion Network for Spacecraft Component Recognition[J]. IEEE Journal of Selected Topics in Applied Earth Observations and Remote Sensing, 2025.
 
-- Guo H, Zhang N, Zhang J, Zhang W, et al. Location-guided dense nested attention network for infrared small target detection[J]. IEEE Journal of Selected Topics in Applied Earth Observations and Remote Sensing, 2024.
+- Guo H, Zhang N, Zhang J, **Zhang W**, et al. Location-guided dense nested attention network for infrared small target detection[J]. IEEE Journal of Selected Topics in Applied Earth Observations and Remote Sensing, 2024.
   
-- Zhang W, Zhang Y, Gao S, et al. Spectrum-Induced Transformer-Based Feature Learning for Multiple Change Detection in Hyperspectral Images[J]. IEEE Transactions on Geoscience and Remote Sensing, 2023, 62: 1-12.
+- **Zhang W**, Zhang Y, Gao S, et al. Spectrum-Induced Transformer-Based Feature Learning for Multiple Change Detection in Hyperspectral Images[J]. IEEE Transactions on Geoscience and Remote Sensing, 2023, 62: 1-12.
 
-- Guo H, Sun C, Zhang J,Zhang W,  et al. MMYFnet: Multi-Modality YOLO Fusion Network for Object Detection in Remote Sensing Images[J]. Remote Sensing, 2024, 16(23): 4451. 
+- Guo H, Sun C, Zhang J,**Zhang W**,  et al. MMYFnet: Multi-Modality YOLO Fusion Network for Object Detection in Remote Sensing Images[J]. Remote Sensing, 2024, 16(23): 4451. 
 
-- Tang Y, Zhang L, Zhang W, et al. Multi-task convex combination interpolation for meta-learning with fewer tasks[J]. Knowledge-Based Systems, 2024, 296: 111839.
+- Tang Y, Zhang L, **Zhang W**, et al. Multi-task convex combination interpolation for meta-learning with fewer tasks[J]. Knowledge-Based Systems, 2024, 296: 111839.
 
 - Liu S, Guo H, Gao S,Zhang W,  et al. The Spectrum Difference Enhanced Network for Hyperspectral Anomaly Detection[J]. Remote Sensing, 2024, 16(23): 4518.
 
-- Zhang W, Guo H, Liu S, et al. Attention-aware spectral difference representation for hyperspectral anomaly detection[J]. Remote Sensing, 2023, 15(10): 2652.
+- **Zhang W**, Guo H, Liu S, et al. Attention-aware spectral difference representation for hyperspectral anomaly detection[J]. Remote Sensing, 2023, 15(10): 2652.
 
-- Zhang W, Zhang Q, Ning H, et al. Cascaded attention-induced difference representation learning for multispectral change detection[J]. International Journal of Applied Earth Observation and Geoinformation, 2023, 121: 103366.
+- **Zhang W**, Zhang Q, Ning H, et al. Cascaded attention-induced difference representation learning for multispectral change detection[J]. International Journal of Applied Earth Observation and Geoinformation, 2023, 121: 103366.
   
-- Zhang W, Zhang Y, Su L, et al. Difference-enhancement triplet network for change detection in multispectral images[J]. IEEE Geoscience and Remote Sensing Letters, 2023, 20: 1-5.
+- **Zhang W**, Zhang Y, Su L, et al. Difference-enhancement triplet network for change detection in multispectral images[J]. IEEE Geoscience and Remote Sensing Letters, 2023, 20: 1-5.
 
-- Pan X, Gao X, Wang H,Zhang W,  et al. Temporal-based Swin Transformer network for workflow recognition of surgical video[J]. International Journal of Computer Assisted Radiology and Surgery, 2023, 18(1): 139-147.
+- Pan X, Gao X, Wang H,**Zhang W**,  et al. Temporal-based Swin Transformer network for workflow recognition of surgical video[J]. International Journal of Computer Assisted Radiology and Surgery, 2023, 18(1): 139-147.
   
--  Yang Q, Yan Q, Zhang W, et al. Deep feature enhancement and Xgboost network for multi‐organ classification[J]. International Journal of Imaging Systems and Technology, 2022, 32(6): 1928-1940.
+-  Yang Q, Yan Q, **Zhang W**, et al. Deep feature enhancement and Xgboost network for multi‐organ classification[J]. International Journal of Imaging Systems and Technology, 2022, 32(6): 1928-1940.
  
-- Zhang W, Zhang Q, Liu S, et al. A spatial–spectral joint attention network for change detection in multispectral imagery[J]. Remote Sensing, 2022, 14(14): 3394.
+- **Zhang W**, Zhang Q, Liu S, et al. A spatial–spectral joint attention network for change detection in multispectral imagery[J]. Remote Sensing, 2022, 14(14): 3394.
   
-- Feng X, Zhang W, Su X, et al. Optical remote sensing image denoising and super-resolution reconstructing using optimized generative network in wavelet transform domain[J]. Remote Sensing, 2021, 13(9): 1858.
+- Feng X, **Zhang W**, Su X, et al. Optical remote sensing image denoising and super-resolution reconstructing using optimized generative network in wavelet transform domain[J]. Remote Sensing, 2021, 13(9): 1858.
 
-- Yan Q, Chen J, Zhang J, Zhang W, et al. Robust AOA-based source localization using outlier sparsity regularization[J]. Digital Signal Processing, 2021, 112: 103006.
+- Yan Q, Chen J, Zhang J, **Zhang W**, et al. Robust AOA-based source localization using outlier sparsity regularization[J]. Digital Signal Processing, 2021, 112: 103006.
 
-- Lu X, Zhang W, Huang J. Exploiting embedding manifold of autoencoders for hyperspectral anomaly detection[J]. IEEE Transactions on Geoscience and Remote Sensing, 2019, 58(3): 1527-1537.
+- Lu X, **Zhang W**, Huang J. Exploiting embedding manifold of autoencoders for hyperspectral anomaly detection[J]. IEEE Transactions on Geoscience and Remote Sensing, 2019, 58(3): 1527-1537.
 
-- Zhang W, Lu X, Li X. Similarity constrained convex nonnegative matrix factorization for hyperspectral anomaly detection[J]. IEEE Transactions on Geoscience and Remote Sensing, 2019, 57(7): 4810-4822.
+- **Zhang W**, Lu X, Li X. Similarity constrained convex nonnegative matrix factorization for hyperspectral anomaly detection[J]. IEEE Transactions on Geoscience and Remote Sensing, 2019, 57(7): 4810-4822.
 
-- Zhang W, Lu X. The spectral-spatial joint learning for change detection in multispectral imagery[J]. Remote Sensing, 2019, 11(3): 240.F A)
+- **Zhang W**, Lu X. The spectral-spatial joint learning for change detection in multispectral imagery[J]. Remote Sensing, 2019, 11(3): 240.F A)
 
 - Zhang W, Lu X, Li X. A coarse-to-fine semi-supervised change detection for multispectral images[J]. IEEE Transactions on Geoscience and Remote Sensing, 2018, 56(6): 3587-3599.
 
-- Lu X, Zhang W, Li X. A hybrid sparsity and distance-based discrimination detector for hyperspectral images[J]. IEEE Transactions on Geoscience and Remote Sensing, 2017, 56(3): 1704-1717.
+- Lu X, **Zhang W**, Li X. A hybrid sparsity and distance-based discrimination detector for hyperspectral images[J]. IEEE Transactions on Geoscience and Remote Sensing, 2017, 56(3): 1704-1717.
 
-- Yan P, Zhang W, Turkbey B, et al. Global structure constrained local shape prior estimation for medical image segmentation[J]. Computer Vision and Image Understanding, 2013, 117(9): 1017-1026.
+- Yan P, **Zhang W**, Turkbey B, et al. Global structure constrained local shape prior estimation for medical image segmentation[J]. Computer Vision and Image Understanding, 2013, 117(9): 1017-1026.
 
-- Zhang W, Yan P, Li X. Estimating patient-specific shape prior for medical image segmentation[C]//2011 IEEE International Symposium on Biomedical Imaging: From Nano to Macro. IEEE, 2011: 1451-1454.
+- **Zhang W**, Yan P, Li X. Estimating patient-specific shape prior for medical image segmentation[C]//2011 IEEE International Symposium on Biomedical Imaging: From Nano to Macro. IEEE, 2011: 1451-1454.
 
-- Zhang W, Yuan Y, Li X, et al. Learning shape statistics for hierarchical 3d medical image segmentation[C]//2011 18th IEEE International Conference on Image Processing. IEEE, 2011: 2189-2192.
+- **Zhang W**, Yuan Y, Li X, et al. Learning shape statistics for hierarchical 3d medical image segmentation[C]//2011 18th IEEE International Conference on Image Processing. IEEE, 2011: 2189-2192.
 
-- Zhang W, Yuan Y, Li X, et al. Target-oriented shape modeling with structure constraint for image segmentation[C]//The First Asian Conference on Pattern Recognition. IEEE, 2011: 194-198.
+- **Zhang W**, Yuan Y, Li X, et al. Target-oriented shape modeling with structure constraint for image segmentation[C]//The First Asian Conference on Pattern Recognition. IEEE, 2011: 194-198.
 
 
 ### 会议
@@ -163,79 +147,25 @@ Email：zhangwuxia@xupt.edu.cn，wuxiazhang100@126.com
 <span class='anchor' id='-kyxm'></span>
 
 # 💻 科研项目
-- 基于架构无关指令嵌入的代码跨模相似性度量学习方法研究, 国家自然科学基金（面上）项目, *2023.01 - 2026.12*. (主持)
-- 小程序中用户隐私数据的违规泄露行为检测方法, 国家自然科学基金（面上）项目, *2023.01 - 2026.12*. (参与)
-- 面向智能制造的无线传感器网络时间序列异常检测技术及应用, 陕西省重点研发计划一般项目-工业领域, *2023.01 - 2024.12*. (参与)
-- 面向IoT固件漏洞挖掘的跨平台目标代码相似性分析关键技术研究, 陕西省自然科学基础研究计划（面上）项目, *2022.01 - 2023.12*. (主持)
-- 陕西高校青年创新团队"工业大数据分析与智能处理创新团队", *2020.10 - 2024.10*. (参与)
-- 多线程程序并发故障智能测试关键技术研究, 陕西省重点研发计划一般项目-工业领域, *2020.01 - 2021.12*. (参与, 已结题)
-- 面向目标代码的软件抄袭检测及证据生成方法研究, 国家自然科学基金（青年）项目, *2018.01 - 2020.12*. (主持, 已结题)
-- 容忍入侵的工业大数据智能融合与安全采集技术研究, 陕西省科技厅-国际科技合作计划项目, *2018.01 - 2019.12*. (参与, 已结题)
-- 源码缺失情境下软件局部抄袭检测方法研究，陕西省自然科学基础研究计划（青年）项目, *2018.01 - 2019.12*. (主持, 已结题)
-- 基于多层网络理论的软件系统结构分析和行为建模研究, 国家自然科学基金（青年）项目, *2017.01 - 2019.12*. (参与, 已结题)
-- 多维在线跨语言Calling Network 建模及其在可信国家电子税务软件中的实证应用, 国家自然科学基金(重点)项目, *2015.01 - 2016.12*. (参与，已结题)
-- 面向国家电子税务系统的可信软件试验环境与示范应用, 国家自然科学基金（重点）项目, *2012.01 - 2015.12*. (参与, 已结题)
-
+- 张无瑕，2025-01至2028-12，跨分辨率光学遥感影像的多时相语义变化过程检测方法研究，国家自然科学基金委面上项目，主持
+- 张无瑕，2024-01 至 2025-12，光学遥感智能变化检测系统在生态环境监测中的关键技术研究， 陕西省重点研发计划项目，主持
+- 张无瑕，2021-01至2023-12，基于空-谱联合注意力机制的光谱影像变化检测方法研究，国家自然科学基金委青年项目，主持
+- 张无瑕，2020-01至2021-12，基于双流网络的无监督高光谱异常目标检测方法研究，陕西省教育厅专项科研计划项目，主持
+- 张无瑕，2023-04至2024-12，基于多源融合数据的智能感知技术研究，横向项目，主持
+- 张无瑕，2022-12至2023-12，福利彩票识别库开发，横向项目，主持基于架构无关指令嵌入的代码跨模相似性度量学习方法研究, 国家自然科学基金（面上）项目, *2023.01 - 2026.12*. (主持)
 
 <span class='anchor' id='-ryjx'></span>
 
-# 🏅 荣誉奖项
-- COLA 2024 `最佳论文奖`. "An Empirical Study on the Divergence of Differently-Sourced LLVM IRs"
-- 2024年度陕西高等学校科学技术研究优秀成果奖`二等奖`
-- 2022年教育部高等学校科学研究优秀成果奖（科学技术）`自然科学奖一等奖`
-- 2017年中国通信学会科学技术奖`科技进步奖三等奖`
-- SEKE2020 `最佳论文奖`. "Plagiarism Detection of Multi-threaded Programs using Frequent Behavioral Pattern Mining"
-- ISSRE2016 `最佳论文奖`. "Frequent Subgraph based Familial Classification of Android Malware"
-- SEKE2014 `最佳Demo奖`. "DBPD: A Dynamic Birthmark-based Software Plagiarism Detection Tool"
- 
+
 
 <span class='anchor' id='-xsfw'></span>
 
 # 🏛️ 学术服务
-- PC Member: ISSRE (2021-2025), SEKE (2020-2025), ICA3PP
-- 审稿人: TIFS, TSE, ToSEM, TDSC, ToR, JSS, ASEJ, EMSE, IST, JSA, ESWA, IJSEKE, Frontiers of Computer Science, Neurocomputing, Mathematics and Computers in Simulation, SEKE, ISSRE, 信息安全学报，计算机科学, 信息网络安全
+- 长期担任IEEE Trans. Geosci. Remote Sens.、Int. J. Appl. Earth Obs. Geoinf.、IEEE J. Sel. Top. Appl. Earth Obs. Remote Sens.、IEEE Geosci. Remote Sens. Lett.、Neurocomputing、Pattern Recogn.等10多个国际知名期刊的审稿人，2018年荣获Neurocomputing的“杰出审稿人”称号（见附件4杰出审稿人证明）
+- 长期担任IEEE Trans. Geosci. Remote Sens.、Int. J. Appl. Earth Obs. Geoinf.、IEEE J. Sel. Top. Appl. Earth Obs. Remote Sens.、IEEE Geosci. Remote Sens. Lett.、Neurocomputing、Pattern Recogn.等10多个国际知名期刊的审稿人，2018年荣获Neurocomputing的“杰出审稿人”称号
 
 
 <span class='anchor' id='-team'></span>
 
-# 🌲 团队
-
-## 🌱 在读研究生
-- **研三:**   赵佳乐，赵江巍，田新茹，滕玉东，李明浩，向洋
-- **研二:**   于泽辉，杨培轩，王梓琳，屈鹏锐，惠云蓬
-- **研一:**   Coming  
-
-
-## 🍷🍺🍸 毕业生
-  **2022届**
-- 张创（腾讯云）
-- 李濠江（国奖）（西安汉得）
-- 邱瑞（优秀硕士学位论文）（中国移动）
-- 宫雨晨（西安华讯）
-- 常辰昊（陕西恒巨软件）
-
-  **2021届**
-- 王凡凡（优秀硕士学位论文）（中国移动）
-- 柯贤群（优秀硕士学位论文）（西安博达软件）
-- 贺瑞康（优秀硕士学位论文）（中兴）
-- 田斌辉（优秀硕士学位论文，国奖）（盛邦安全）
-  
-  **2020届**
-- 李谌（中科慧远）
-- 吕佳俊（中兴）
-- 王璐萌（象帝先计算技术）
-- 张翠萍（山东城市商业银行）
-  
-  **2019届**
-- 李锦锐（中国工商银行）
-- 田杰（优秀硕士学位论文，国奖）（中国工商银行）
-- 毛恒超（中国联通西安软件研究院）
-- 黄雅倩（徽商银行）
-  
-  **2018届**
-- 谢博润（华为）
-- 王清(优秀毕业研究生，优秀硕士学位论文，国奖)（中国联通西安软件研究院）
-- 王宁宁（中国山西联通）
-- 冯桢（华为）
 
 <script type='text/javascript' id='clustrmaps' src='//cdn.clustrmaps.com/map_v2.js?cl=ffffff&w=300&t=n&d=DDT6mvG6VlcE8DF1mVi2xHzsa78VCQ-uYUpUWbtFGEo'></script>
