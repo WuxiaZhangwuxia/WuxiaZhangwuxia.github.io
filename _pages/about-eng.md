@@ -101,6 +101,7 @@ Zhang W, Yan P, Li X. Estimating patient-specific shape prior for medical image 
 Zhang W, Yuan Y, Li X, et al. Learning shape statistics for hierarchical 3d medical image segmentation[C]//2011 18th IEEE International Conference on Image Processing. IEEE, 2011: 2189-2192.
 
 Zhang W, Yuan Y, Li X, et al. Target-oriented shape modeling with structure constraint for image segmentation[C]//The First Asian Conference on Pattern Recognition. IEEE, 2011: 194-198.
+
 💻 Research Projects
 
 	•	Zhang Wuxia. 2025.01–2028.12. Research on multi-temporal semantic change process detection method for cross-resolution optical remote sensing images. National Natural Science Foundation of China General Project, Presided over.
